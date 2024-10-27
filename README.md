@@ -92,3 +92,7 @@ uvicorn index:app --reload
 - Scikit-learn
 
 Обратите внимание, что `AutoGluon` не добавлен в `requirements.txt`, так как его установка осуществляется через `conda`. AutoGluon установите через команду: conda install -c auto-gluon autogluon
+
+## Лицензия
+
+Этот проект лицензируется под лицензией MIT. Смотрите файл LICENSE для получения подробной информации.
